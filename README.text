@@ -1,0 +1,12 @@
+
+1) Make a Point class that can remember an x and y coordinate.
+You should be able to do "new Point(20,10)" to get a new Point.
+
+2) Make a Compass enum that contains the directions
+North NorthEast East SouthEast South SouthWest West NorthWest
+
+3) Make a public function
+public Point movePoint(Point oldpt, Compass direction)
+that creates a new point that is one step in the given direction from 
+where you start.
+
